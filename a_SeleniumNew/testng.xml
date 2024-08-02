@@ -1,0 +1,10 @@
+<suite name="Suite">  
+<parameter name="searchText" value="apple"/>  
+
+<test name="f">   
+  <classes>  
+  <class name= "testNG.ParametersRealEx"/>  
+  </classes>  
+  </test> <!-- Test -->  
+  
+</suite> <!-- Suite -->
